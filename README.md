@@ -1,2 +1,2 @@
-# Fault-offset-drainages-
+# Fault-offset drainages
 Supporting material for Fault-offset drainages research
